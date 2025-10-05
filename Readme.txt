@@ -60,4 +60,4 @@ Data Storage: JSON files
 
 Version Control: Git / GitHub
 
-OS Tested: Windows 10
+OS Tested: Windows 11
