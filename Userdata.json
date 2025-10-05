@@ -1,0 +1,63 @@
+[
+    {
+        "Name": "Erla Akhil",
+        "Mobile": "7337377313",
+        "LoginId": "2519401",
+        "Orders": [
+            {
+                "Train_Name": "Krishna Express",
+                "Train_No": "17405",
+                "Coach": "AC",
+                "Tickets Booked": 3,
+                "Price": 4350
+            },
+            {
+                "Train_Name": "East Coast Express",
+                "Train_No": "18645",
+                "Coach": "SLP",
+                "Tickets Booked": 7,
+                "Price": 4200
+            },
+            {
+                "Train_Name": "Venkatadri Express",
+                "Train_No": "12797",
+                "Coach": "SLP",
+                "Tickets Booked": 2,
+                "Price": 800
+            }
+        ]
+    },
+    {
+        "Name": "Deepthi Tcs",
+        "Mobile": "8888900908",
+        "LoginId": "3315983",
+        "Orders": [
+            {
+                "Train_Name": "Narayanadri Express",
+                "Train_No": "12733",
+                "Coach": "AC",
+                "Tickets Booked": 2,
+                "Price": 2700
+            },
+            {
+                "Train_Name": "Godavari Express",
+                "Train_No": "12727",
+                "Coach": "AC",
+                "Tickets Booked": 1,
+                "Price": 1300
+            }
+        ]
+    },
+    {
+        "Name": "Srujana K",
+        "Mobile": "7776766667",
+        "LoginId": "7729123",
+        "Orders": []
+    },
+    {
+        "Name": "Venkat Yadav",
+        "Mobile": "7775556767",
+        "LoginId": "5343765",
+        "Orders": []
+    }
+]
